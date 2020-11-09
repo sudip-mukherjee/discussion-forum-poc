@@ -17,6 +17,14 @@
     "lib": [
       "es2018",
       "dom"
-    ]
+    ],
+    "paths": {
+      "sb-discussion-forum": [
+        "dist/sb-discussion-forum"
+      ],
+      "sb-discussion-forum/*": [
+        "dist/sb-discussion-forum/*"
+      ]
+    }
   }
 }
